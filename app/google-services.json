@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961304979806",
+    "project_id": "book-buying-9e424",
+    "storage_bucket": "book-buying-9e424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961304979806:android:d76b6c6aa1ad5a202f47cf",
+        "android_client_info": {
+          "package_name": "com.shuklansh.booksellingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvpkVmnCC2ktuSVMcVcuK9jYkMZpGboW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
